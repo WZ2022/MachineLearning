@@ -16,3 +16,5 @@ Projects implementing Machine Learning methods.
 用集成学习（Bagging），线性判别分析（LDA），支持向量机（SVM）预测泰坦尼克存活率；
 
 用回归方法（Ridge Regression、Lasso Regression、Elastic Net Regression）、回归树、主成分分析（PCA）、K均值聚类预测红酒质量；
+
+使用R语言进行数据预处理：用称号的中位数填充年龄缺失值等；调节各个模型的参数找到有最佳效果的模型；
