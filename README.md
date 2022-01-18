@@ -19,3 +19,8 @@ Projects implementing Machine Learning methods.
 
 用回归方法（Ridge Regression、Lasso Regression、Elastic Net Regression）、回归树、主成分分析（PCA）、KMeans聚类预测红酒质量；根据均方误差评估回归模型；
 
+#3.自然语言处理：手表用户评论分析
+---
+用Python将用户评论分类以挖掘潜在语义；通过分词、保留词根、移除低语义词处理文本文件；运用TF-IDF做特征筛选；
+
+使用无监督机器学习方法（KMeans聚类、层次聚类、LDA）训练模型；调节参数，根据分类识别主题与关键词；
