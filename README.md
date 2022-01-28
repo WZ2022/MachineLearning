@@ -24,3 +24,13 @@ Projects implementing Machine Learning methods.
 用Python将用户评论分类以挖掘潜在语义；通过分词、保留词根、移除低语义词处理文本文件；运用TF-IDF做特征筛选；
 
 使用无监督机器学习方法（KMeans聚类、层次聚类、LDA）训练模型；调节参数，根据分类识别主题与关键词；
+
+#4.美国P2P平台LendingClub贷款违约预测
+-----
+进行数据清洗、分类特征转换、数据标准化；
+
+训练有监督模型（随机森林、K近邻、逻辑回归）；调节超参数优化模型；
+
+通过k-fold交叉验证评估模型性能（accuracy、precision、recall、ROC、AUC）
+
+分析特征重要性找出最有影响力的特征
