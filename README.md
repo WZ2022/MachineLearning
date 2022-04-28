@@ -1,6 +1,12 @@
 # MachineLearning
 Projects implementing Machine Learning methods.
 
+# 行用卡欺诈异常检测
+------
+使用scipy统计工具，计算数据的概率密度函数；通过交叉验证和F1值找到最佳阈值
+
+通过训练有监督模型，孤立森林（Isolation Forest），预测数据是否异常
+
 # 银行客户流失预测
 -----
 使用Python预测银行用户流失概率；进行数据清洗、分类特征转换、数据标准化；
