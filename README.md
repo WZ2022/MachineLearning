@@ -1,7 +1,7 @@
 # MachineLearning
 Projects implementing Machine Learning methods.
 
-#1.银行客户流失预测
+# 银行客户流失预测
 -----
 使用Python预测银行用户流失概率；进行数据清洗、分类特征转换、数据标准化；
 
