@@ -1,7 +1,7 @@
 # MachineLearning
 Projects implementing Machine Learning methods.
 
-# 行用卡欺诈异常检测
+# 信用卡欺诈异常检测
 ------
 使用scipy统计工具，计算数据的概率密度函数；通过交叉验证和F1值找到最佳阈值
 
