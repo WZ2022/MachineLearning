@@ -7,6 +7,10 @@ Projects implementing Machine Learning methods.
 
 通过训练有监督模型，孤立森林（Isolation Forest），预测数据是否异常
 
+# 电子商务首次交易欺诈检测
+------
+运用SMOTE算法对训练集上采样
+
 # 银行客户流失预测
 -----
 使用Python预测银行用户流失概率；进行数据清洗、分类特征转换、数据标准化；
