@@ -48,7 +48,7 @@ gauth = GoogleAuth()
 gauth.credentials = GoogleCredentials.get_application_default()
 drive = GoogleDrive(gauth)
 
-link = 'https://drive.google.com/open?id=1VOAhrB5eIhFc8C5qeFx5QYa2OLD7s1eV'
+link = 'https://drive.google.com/open?id='
 fluff, id = link.split('=')
 file = drive.CreateFile({'id':id}) 
 file.GetContentFile('loan-clean-version.csv')
