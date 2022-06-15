@@ -41,7 +41,7 @@ drive = GoogleDrive(gauth)
 
 """tell drive where to get the data, load data and set data a new name"""
 
-id = "1um4-JcKVHitHeQeOOQIYofywgv1Bi8up"
+id = ""
 file = drive.CreateFile({'id':id}) 
 file.GetContentFile('bank_churn.csv')
 
